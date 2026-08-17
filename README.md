@@ -1,4 +1,4 @@
-# 💰 Sistema de Gestão Financeira Pessoal
+💰 Sistema de Gestão Financeira Pessoal
 
 Este projeto foi desenvolvido para ajudar usuários a **controlar suas finanças pessoais**, permitindo o registro e acompanhamento de **receitas e despesas** de forma simples e eficiente.
 
@@ -16,3 +16,22 @@ Este projeto foi desenvolvido para ajudar usuários a **controlar suas finanças
 - **Pillow** para manipulação de imagens
 
 ## 📂 Estrutura do projeto
+PythonProject1/
+├── codigo.py
+├── financeiro.db
+├── imagen.jpeg
+└── README.md
+
+
+
+## 🚀 Como executar
+1. Instale as dependências:
+   ```bash
+   pip install Pillow
+Execute o programa:
+
+bash
+python codigo.py
+👨‍💻 Autor
+Desenvolvido por Wendeson Souza  
+📍 Areia Branca – Sergipe, Brasil
