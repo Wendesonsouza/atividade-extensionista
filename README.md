@@ -1,47 +1,36 @@
+# 📘 Projeto Atividade Extensionista
 
+## 📌 Descrição
+Este projeto foi desenvolvido como parte das atividades extensionistas da faculdade.  
+O objetivo é aplicar conceitos de **Python** em situações práticas, incluindo manipulação de banco de dados, organização de código e uso de imagens.
 
 ---
 
-### ✅ Como aplicar
-No PowerShell, basta rodar:
+## 🚀 Tecnologias utilizadas
+- Python 3.x  
+- Banco de dados SQLite  
+- PyCharm (IDE recomendada)  
+- Git & GitHub para versionamento  
 
-```powershell
-Set-Content README.md "# 📘 Projeto Atividade Extensionista"
-Add-Content README.md "## 📌 Descrição"
-Add-Content README.md "Este projeto foi desenvolvido como parte das atividades extensionistas da faculdade."
-Add-Content README.md "O objetivo é aplicar conceitos de **Python** em situações práticas, incluindo manipulação de banco de dados, organização de código e uso de imagens."
-Add-Content README.md ""
-Add-Content README.md "## 🚀 Tecnologias utilizadas"
-Add-Content README.md "- Python 3.x"
-Add-Content README.md "- Banco de dados SQLite"
-Add-Content README.md "- PyCharm (IDE recomendada)"
-Add-Content README.md "- Git & GitHub para versionamento"
-Add-Content README.md ""
-Add-Content README.md "## ⚙️ Como executar"
-Add-Content README.md "1. Clone este repositório:"
-Add-Content README.md "   git clone https://github.com/Wendesonsouza/atividade-extensionista.git"
-Add-Content README.md "2. Acesse a pasta do projeto:"
-Add-Content README.md "   cd atividade-extensionista"
-Add-Content README.md "3. Execute o código principal:"
-Add-Content README.md "   python codigo.py"
-Add-Content README.md ""
-Add-Content README.md "## 📂 Estrutura do projeto"
-Add-Content README.md "- codigo.py → Código principal em Python"
-Add-Content README.md "- financeiro.db → Banco de dados SQLite"
-Add-Content README.md "- imagen.jpeg → Arquivo de imagem usado no projeto"
-Add-Content README.md "- .idea/ → Configurações da IDE (PyCharm)"
-Add-Content README.md ""
-Add-Content README.md "## 🤝 Contribuição"
-Add-Content README.md "Contribuições são bem-vindas!"
-Add-Content README.md "Para colaborar:"
-Add-Content README.md "1. Faça um fork do projeto."
-Add-Content README.md "2. Crie uma branch para sua feature:"
-Add-Content README.md "   git checkout -b minha-feature"
-Add-Content README.md "3. Commit suas alterações:"
-Add-Content README.md "   git commit -m \"Adicionando minha feature\""
-Add-Content README.md "4. Envie para o seu fork:"
-Add-Content README.md "   git push origin minha-feature"
-Add-Content README.md "5. Abra um Pull Request."
-Add-Content README.md ""
-Add-Content README.md "## 📄 Licença"
-Add-Content README.md "Este projeto é de uso **acadêmico** e livre para estudo."
+---
+
+## ⚙️ Como executar
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/Wendesonsouza/atividade-extensionista.git
+Acesse a pasta do projeto:
+
+bash
+cd atividade-extensionista
+Execute o código principal:
+
+bash
+python codigo.py
+📂 Estrutura do projeto
+codigo.py → Código principal em Python
+
+financeiro.db → Banco de dados SQLite
+
+imagen.jpeg → Arquivo de imagem usado no projeto
+
+.idea/ → Configurações da IDE (PyCharm)
