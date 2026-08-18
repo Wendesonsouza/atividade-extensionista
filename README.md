@@ -1,16 +1,27 @@
-# 📘 Projeto Atividade Extensionista
+# 💰 Projeto Atividade Extensionista - Sistema de Gestão Financeira
 
 ## 📌 Descrição
-Este projeto foi desenvolvido como parte das atividades extensionistas da faculdade.  
-O objetivo é aplicar conceitos de **Python** em situações práticas, incluindo manipulação de banco de dados, organização de código e uso de imagens.
+Este projeto é um **programa de gestão financeira pessoal** desenvolvido em Python.  
+O objetivo é ajudar pessoas a organizarem suas finanças, oferecendo recursos para **controle de despesas** e **saldo de receitas**, permitindo uma visão clara da saúde financeira.
+
+Com este sistema, o usuário pode registrar gastos, acompanhar entradas de dinheiro e visualizar o saldo atualizado, facilitando a tomada de decisões financeiras no dia a dia.
+
+---
+
+## 🎯 Benefícios
+- Controle simples e eficiente de despesas.  
+- Registro de receitas com atualização automática do saldo.  
+- Armazenamento seguro em banco de dados SQLite.  
+- Ferramenta prática para apoiar educação financeira.  
+- Possibilidade de expansão para relatórios e gráficos.  
 
 ---
 
 ## 🚀 Tecnologias utilizadas
-- Python 3.x  
-- Banco de dados SQLite  
-- PyCharm (IDE recomendada)  
-- Git & GitHub para versionamento  
+- **Python 3.x** → Linguagem principal do projeto.  
+- **SQLite** → Banco de dados leve e integrado.  
+- **PyCharm** → IDE recomendada para desenvolvimento.  
+- **Git & GitHub** → Controle de versão e colaboração.  
 
 ---
 
@@ -27,10 +38,19 @@ Execute o código principal:
 bash
 python codigo.py
 📂 Estrutura do projeto
-codigo.py → Código principal em Python
+codigo.py → Código principal do sistema de gestão financeira.
 
-financeiro.db → Banco de dados SQLite
+financeiro.db → Banco de dados SQLite para armazenar receitas e despesas.
 
-imagen.jpeg → Arquivo de imagem usado no projeto
+imagen.jpeg → Arquivo de imagem usado no projeto.
 
-.idea/ → Configurações da IDE (PyCharm)
+.idea/ → Configurações da IDE (PyCharm).
+
+📖 Exemplos de uso
+Adicionar uma nova despesa (ex: alimentação, transporte).
+
+Registrar uma receita (ex: salário, venda).
+
+Consultar saldo atualizado.
+
+Gerar relatórios simples de entradas e saídas.
